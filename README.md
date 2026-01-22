@@ -23,3 +23,20 @@ My goal is to establish a strong technical foundation in **Full Stack Developmen
 
 ---
 *Currently in the learning phase, focusing on building a strong foundation.*
+
+---
+### 📊 GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alperswexa&show_icons=true&theme=radical&count_private=true" height="150" alt="alperswexa's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperswexa&layout=compact&theme=radical&hide_border=true" height="150" alt="alperswexa's top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
