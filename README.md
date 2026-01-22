@@ -1,16 +1,25 @@
-## Hi there 👋
+### Alper Demirkıran
 
-<!--
-**alperswexa/alperswexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Programming Student @ Istinye University**
 
-Here are some ideas to get you started:
+I am a first-year undergraduate student in Computer Programming. I am currently focusing on the fundamentals of **Software Development**, specifically building my skills in Python and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to establish a strong technical foundation in **Full Stack Development** by mastering core programming logic and web standards.
+
+---
+
+### 🛠 Technical Familiarity (Basic Level)
+
+| Category | Status |
+| --- | --- |
+| **Python** | Writing basic scripts & solving logical problems |  
+| **Web Development** | Creating simple static pages with HTML5 & CSS3 |
+| **Tools** | Learning VS Code & Git basics |
+
+### 📌 Current Focus & Exercises
+
+* **Web Development Basics:** Currently practicing fundamental HTML and CSS structures to build simple, static web layouts.
+* **Python Exercises:** Writing elementary scripts to understand programming logic, loops, and basic algorithms.
+
+---
+*Currently in the learning phase, focusing on building a strong foundation.*
